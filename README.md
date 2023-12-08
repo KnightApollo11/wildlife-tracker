@@ -8,13 +8,13 @@ An application that helps Rangers track animals in the wild.
 
 ## 👷 Author
 
-Sophia Chisiya
+Hazael Knight
 
 ## 🔨 Setup Instructions
 
 ### Clone the repository
 
-HTTPS: `git clone https://github.com/totalSophie/ip-week-six.git`
+HTTPS: `git clone https://github.com/KnightApollo11/wildlife-tracker.git
 
 ### Install dependencies
 ```bash
@@ -47,7 +47,7 @@ mvn exec:java
 - PostgreSQL
 
 ## 👨‍💻 Contact
-- totalsophie@gmail.com
+- theodorahknight64@gmail.com
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
